@@ -1,1 +1,16 @@
-# GiacomoPaolini
+# Welcome! 👋
+Hello! I'm Giacomo Paollini a passionate Web Developer based in Rome.
+
+## 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,vue,php,laravel,postman)](https://skillicons.dev)
+
+## 📋 Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomopaolini1&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Contacts
+Get in touch:
+
+Email: giacomopaolini08@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/giacomo-paolini-dev/

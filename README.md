@@ -1,5 +1,5 @@
 # Welcome! 👋
-Hello! I'm Giacomo Paollini a passionate Web Developer based in Rome.
+Hello! I'm Giacomo Paolini a passionate Web Developer based in Rome.
 
 ## 💻 Tech Stack:
 

@@ -1,7 +1,7 @@
 # Welcome! 👋
 Hello! I'm Giacomo Paolini a passionate Web Developer based in Rome.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,tailwind,vue,php,laravel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,tailwind,vue,react,nodejs,php,laravel,postman)](https://skillicons.dev)
 
 I am currently learning: NodeJs, React and Ionic
 
